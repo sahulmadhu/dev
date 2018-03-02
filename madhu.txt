@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 this is new on
 thisvsfsf
 e
+=======
+fdfsfd
+this is new one
+>>>>>>> 8e81f4b9c1f6e380c392fecf8626c2e2ea93ef2d
 
 this
-one
+o
+thisvvgvne
